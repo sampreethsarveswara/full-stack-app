@@ -1,0 +1,11 @@
+.count {
+  font-size: 50px;
+}
+
+.reset {
+  background-color: lightcoral;
+  font-size: 16px;
+  padding: 15px 30px;
+  color: white;
+  width : 200px;
+}
